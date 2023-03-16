@@ -1,0 +1,17 @@
+{
+  "deno.enable": true,
+  "deno.unstable": false,
+  "editor.defaultFormatter": "denoland.vscode-deno",
+  "prettier.enable": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "denoland.vscode-deno",
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "denoland.vscode-deno",
+    "editor.formatOnSave": true
+  }
+}

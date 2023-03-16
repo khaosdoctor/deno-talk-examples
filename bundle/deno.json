@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "bundle": "deno bundle ./mod1.ts ./bundle.js"
+  }
+}
