@@ -1,5 +1,0 @@
-{
-  "tasks": {
-    "lint": "deno lint ./mod.ts"
-  }
-}

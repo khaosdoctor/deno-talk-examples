@@ -1,5 +1,0 @@
-{
-  "tasks": {
-    "compile": "deno compile --output reverse ./mod.ts"
-  }
-}
